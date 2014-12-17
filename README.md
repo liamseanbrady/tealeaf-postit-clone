@@ -1,0 +1,1 @@
+This is a clone of an app built I have already build as [Tealeaf Academy's](http://gotealeaf.com) **Rapid Prototyping with Ruby on Rails** course.
